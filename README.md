@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+
+
 - 👋 Hi, I’m @fatimafaisal17
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
